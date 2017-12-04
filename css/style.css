@@ -1,0 +1,58 @@
+
+body{
+  background-color:black;
+}
+h5{
+  color:white;
+  text-align:center;
+  font-family:'Work Sans';
+  font-size:30px;
+}
+.outer{
+  width:270px;
+  height:270px;
+  color:red;
+  border:thin inset; 
+  position :relative;
+  top:80px;
+  background-color: rgba(255,255,255, 0.2);
+  color: inherit;
+
+}
+.keys{
+  padding :10px;
+  margin: 10px;
+}
+.Op{
+ margin:10px;
+  padding:10px;
+}
+
+.btn{
+  width:2em;
+  height:3em;
+  text-align:center;
+  
+}
+.equals{
+  width :2em;
+  height:3em;
+  text-align:center;
+  margin:5px 3px 0px 3px;
+  padding:5px;
+}
+.text{
+  margin:5px;
+ border: thin outset;
+  border-color:blue;
+  width: 150px;
+ }
+.Clear{
+  margin:5px 8px 0px 18px;
+  padding:5px;
+}
+.function{
+  padding:0px;
+  margin: 10px;
+  text-align:center;
+}
